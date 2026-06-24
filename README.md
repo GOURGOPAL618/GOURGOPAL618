@@ -31,7 +31,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/GOURGOPAL618/GOURGOPAL618/profile.png" width="190" style="border-radius:50%; border: 4px solid #1A1F6E;"/>
+<img src="https://raw.githubusercontent.com/GOURGOPAL618/GOURGOPAL618/main/profile.png" width="190" style="border-radius:50%; border: 4px solid #1A1F6E;"/>
 
 <br/><br/>
 
