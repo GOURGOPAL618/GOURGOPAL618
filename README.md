@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2E,50:1A1F6E,100:2D3494&height=220&section=header&text=GOURAGOPAL%20MOHAPATRA&fontSize=36&fontColor=F5C842&fontAlignY=42&desc=Space-AI%20%E2%80%A2%20Remote%20Sensing%20%E2%80%A2%20Space%20Medicine%20AI&descSize=15&descAlignY=64&descColor=CBD5F5&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2E,50:1A1F6E,100:2D3494&height=220&section=header&text=GOURGOPAL%20MOHAPATRA&fontSize=36&fontColor=F5C842&fontAlignY=42&desc=Space-AI%20%E2%80%A2%20Remote%20Sensing%20%E2%80%A2%20Space%20Medicine%20AI&descSize=15&descAlignY=64&descColor=CBD5F5&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=700&color=1A1F6E&center=true&vCenter=true&width=750&height=40&lines=◈+MISSION+CONTROL+ONLINE+—+ALL+SYSTEMS+NOMINAL+◈;◈+ORBITAL+INTELLIGENCE+UNIT+%3A%3A+GOURGOPAL618+◈;◈+DECODING+PLANETARY+INTELLIGENCE+THROUGH+DEEP+LEARNING+◈)](https://git.io/typing-svg)
 
