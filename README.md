@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2E,50:1A1F6E,100:2D3494&height=220&section=header&text=GOURAGOPAL%20MOHAPATRA&fontSize=36&fontColor=F5C842&fontAlignY=42&desc=Space-AI%20%E2%80%A2%20Remote%20Sensing%20%E2%80%A2%20Space%20Medicine%20AI&descSize=15&descAlignY=64&descColor=CBD5F5&animation=fadeIn" width="100%"/>
@@ -365,24 +364,24 @@ print(">> Operator manifest loaded. Launch sequence standing by.")
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-Expert-0B0F2E?style=flat-square&logo=python&logoColor=F5C842&labelColor=0B0F2E)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-0B0F2E?style=flat-square&logo=pytorch&logoColor=F5C842&labelColor=0B0F2E)
-![GEE](https://img.shields.io/badge/Earth%20Engine-Active-0B0F2E?style=flat-square&logo=google&logoColor=F5C842&labelColor=0B0F2E)
-![SAR](https://img.shields.io/badge/SAR%20%7C%20MSI-Sentinel%201%20%26%202-0B0F2E?style=flat-square&logoColor=F5C842&labelColor=0B0F2E)
-![LSTM](https://img.shields.io/badge/Stacked%20LSTM-Time%20Series-0B0F2E?style=flat-square&logoColor=F5C842&labelColor=0B0F2E)
-![UNet](https://img.shields.io/badge/U--Net-Segmentation-0B0F2E?style=flat-square&logoColor=F5C842&labelColor=0B0F2E)
-![QGIS](https://img.shields.io/badge/QGIS-Geospatial-0B0F2E?style=flat-square&logoColor=F5C842&labelColor=0B0F2E)
-![SpaceMed](https://img.shields.io/badge/ASTROVITAL-Space%20Medicine%20AI-0B0F2E?style=flat-square&logoColor=F5C842&labelColor=0B0F2E)
+![Python](https://img.shields.io/badge/Python-Expert-F5C842?style=for-the-badge&logo=python&logoColor=0B0F2E&labelColor=0B0F2E)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-F5C842?style=for-the-badge&logo=pytorch&logoColor=0B0F2E&labelColor=0B0F2E)
+![GEE](https://img.shields.io/badge/Earth%20Engine-Active-F5C842?style=for-the-badge&logo=google&logoColor=0B0F2E&labelColor=0B0F2E)
+
+<br/>
+
+![SAR](https://img.shields.io/badge/SAR%20%7C%20MSI-Sentinel%201%20%26%202-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
+![LSTM](https://img.shields.io/badge/Stacked%20LSTM-Time%20Series-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
+![UNet](https://img.shields.io/badge/U--Net-Segmentation-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
+
+<br/>
+
+![QGIS](https://img.shields.io/badge/QGIS-Geospatial%20Core-2D3494?style=for-the-badge&labelColor=0B0F2E)
+![SpaceMed](https://img.shields.io/badge/ASTROVITAL-Space%20Medicine%20AI-2D3494?style=for-the-badge&labelColor=0B0F2E)
 
 <br/><br/>
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│   Every orbit is a data point.   Every pixel, a mission.            │
-│   The Earth speaks in frequencies — I am the decoder.               │
-│                              — GOURAGOPAL MOHAPATRA                 │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F2E,100:1A1F6E&height=120&text=%22Every%20orbit%20is%20a%20data%20point.%20Every%20pixel%2C%20a%20mission.%22&fontSize=16&fontColor=F5C842&fontAlignY=40&desc=The%20Earth%20speaks%20in%20frequencies%20%E2%80%94%20I%20am%20the%20decoder.%20%E2%80%94%20GOURAGOPAL%20MOHAPATRA&descSize=13&descAlignY=68&descColor=CBD5F5" width="80%"/>
 
 <br/>
 
