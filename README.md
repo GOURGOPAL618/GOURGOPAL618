@@ -253,11 +253,11 @@
 <br/>
 
 | &nbsp; | DATE | COSMIC EVENT | MISSION | STATUS |
-|:---:|:---|:---|:---|:---:|
-| 🔱 | **July 16, 2026** | Ratha Yatra | Official Launch — **THE MRIDANSH**<br/><sub>Open Agro-Spatial Intelligence Platform</sub> | 🟡 T‑MINUS |
+|:---:|:---|:---|:---|:---:|..
+| 🔱 | **July 16, 2026** | Ratha Yatra | Official Launch — **THE MRIDANSH**<br/><sub>Open Agro-Spatial Intelligence Platform</sub> | 🟢 Launched |
 | 🌾 | **2026** | Coming... | Remote Sensing Space-AI Paper<br/><sub>Launch & Publication Draft Release</sub> | 🟡 T‑MINUS |
 | ⚕️ | **2027 · Q3** | — | **AEREXIS OMEGA V1.5** Release<br/><sub>Next-Gen Space Medicine AI</sub> | 🔵 IN BUILD |
-| 🛰️ | **2026 · Q4** | — | **OMNISENTINEL V2** Full Deploy<br/><sub>Multi-Domain Orbital Intelligence</sub> | 🔵 IN BUILD |
+| 🛰️ | **2027 · Q4** | — | **OMNISENTINEL V2** Full Deploy<br/><sub>Multi-Domain Orbital Intelligence</sub> | 🔵 IN BUILD |
 
 </div>
 
