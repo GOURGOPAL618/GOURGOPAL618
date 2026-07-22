@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=18&duration=4000&pause=1500&color=0B0F2E&center=true&vCenter=true&width=750&height=45&lines=%22Unconstrained+by+Terrestrial+Boundaries.+Computing+Beyond+the+Galaxy+and+Stars.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=18&duration=4000&pause=1500&color=0B0F2E&center=true&vCenter=true&width=750&height=45&lines=%22Unconstrained+by+Terrestrial+Boundaries.+Computing+Beyond+the+Cosmos.%22)](https://git.io/typing-svg)
 
 </div>
 
