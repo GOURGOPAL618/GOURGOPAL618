@@ -75,7 +75,7 @@
     ◈ THE MRIDANSH  →  State-Scale Agro Platform
     ◈ ASTROVITAL AI →  Space Medicine Intelligence
   ──────────────────────────────────────────────────
-  LAUNCH WINDOW:  July 16, 2026 — RATHA YATRA 🔱
+  LAUNCH WINDOW:  Coming Soon....🔜
   STATUS       :  ✅ ALL SYSTEMS NOMINAL
 ╚══════════════════════════════════════════════════╝
 ```
