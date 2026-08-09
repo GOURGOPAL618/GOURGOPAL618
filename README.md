@@ -299,63 +299,53 @@
 
 <div align="center">
 
-## 🌌 OPERATOR LOGS — PERSONAL CORE DUMP
-
-</div>
-
-<br/>
-
 <div align="center">
+
+## 🌌 OPERATOR LOGS — PERSONAL CORE DUMP
 
 > *"Every pixel in a satellite image is a data point waiting to speak."*
 
-**OPERATOR:** GOURGOPAL MOHAPATRA &nbsp;·&nbsp; **COMMAND CENTER:** JAGANNATH COMMAND CENTER (JCC) &nbsp;·&nbsp; **PHILOSOPHY:** UNCONSTRAINED BY TERRESTRIAL BOUNDARIES 🌌
+<img height="34" src="https://img.shields.io/badge/OPERATOR-GOURGOPAL%20MOHAPATRA-00e5ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/COMMAND%20CENTER-JAGANNATH%20COMMAND%20CENTER%20(JCC)-b026ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/PHILOSOPHY-UNCONSTRAINED%20BY%20TERRESTRIAL%20BOUNDARIES-ff2079?style=for-the-badge&labelColor=000000"/>
 
-</div>
+<br/><br/>
 
-| SIGNAL | READING |
-|:---|:---|
-| 🚀 **Drives** | Space — first, last, and always |
-| 💪 **Fuel** | Self-belief — the primary fuel of every mission |
-| 🧠 **Language** | Deep Learning — the language of intelligence |
-| 🧬 **Obsession** | Human bodies in space — where biology meets the cosmos |
-| 🛰️ **Belief** | If it cannot be seen from orbit, it has not been mapped yet |
-| 📡 **Spirit Code** | Builds systems that think in dimensions humans cannot see |
-| 🌾 **Next Chapter** | THE MRIDANSH — feeding a nation through orbital intelligence |
-| 🟢 **Status** | ALL SYSTEMS NOMINAL — MISSION CONTINUES |
+<img height="34" src="https://img.shields.io/badge/🚀%20DRIVES-SPACE%20%E2%80%94%20FIRST%2C%20LAST%2C%20ALWAYS-00e5ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/💪%20FUEL-SELF--BELIEF-b026ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/🧠%20LANGUAGE-DEEP%20LEARNING-ff2079?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+<img height="34" src="https://img.shields.io/badge/🧬%20OBSESSION-HUMAN%20BODIES%20IN%20SPACE-00ffab?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/🛰️%20BELIEF-UNMAPPED%20UNTIL%20SEEN%20FROM%20ORBIT-ffb700?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/📡%20SPIRIT%20CODE-THINKS%20IN%20DIMENSIONS%20UNSEEN-00e5ff?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+<img height="34" src="https://img.shields.io/badge/🌾%20NEXT%20CHAPTER-THE%20MRIDANSH-b026ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/🟢%20STATUS-ALL%20SYSTEMS%20NOMINAL-00ffab?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
 
 ---
 
 ## 🧬 ASTROVITAL AI — SPACE MEDICINE ROADMAP
 
-<div align="center">
+<img height="34" src="https://img.shields.io/badge/ECOSYSTEM-ASTROVITAL%20AI-b026ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/DOMAIN-SPACE%20MEDICINE%20AI-00e5ff?style=for-the-badge&labelColor=000000"/>
 
-<img height="30" src="https://img.shields.io/badge/ECOSYSTEM-ASTROVITAL%20AI-b026ff?style=for-the-badge&labelColor=000000"/>
-<img height="30" src="https://img.shields.io/badge/DOMAIN-SPACE%20MEDICINE%20AI-00e5ff?style=for-the-badge&labelColor=000000"/>
-<img height="30" src="https://img.shields.io/badge/V1-RELEASED-00ffab?style=for-the-badge&labelColor=000000"/>
-<img height="30" src="https://img.shields.io/badge/2027%20ROADMAP-2%20VERSIONS%20PLANNED-ffb700?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+
+<img height="34" src="https://img.shields.io/badge/VITALX%20CORE%20V1-✅%20RELEASED-00ffab?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/AEREXIS%20OMEGA%20V1.5-🔶%20PLANNED%20%C2%B7%202027-ffb700?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/OMNISENTINEL%20V1.5-🔶%20PLANNED%20%C2%B7%202027-ffb700?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+*ASTROVITAL AI is the long-term Space Medicine AI arm of the operator's work — exploring how human physiology holds up beyond Earth, where biology meets the cosmos. VITALX CORE V1 is live; the next two versions are slated for 2027.*
 
 </div>
-
-| VERSION | STATUS | TARGET |
-|:---:|:---:|:---|
-| **VITALX CORE V1** | ✅ RELEASED | Foundation build — shipped |
-| **AEREXIS OMEGA V1.5** | 🔶 PLANNED | 2027 |
-| **OMNISENTINEL V1.5** | 🔶 PLANNED | 2027 |
-
-> ASTROVITAL AI is the long-term Space Medicine AI arm of the operator's work — exploring how human physiology holds up beyond Earth, where biology meets the cosmos. V1 is live; the next two versions are slated for 2027.
-
-<div align="center">
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 ## 📬 GROUND CONTROL — ESTABLISH UPLINK
 
