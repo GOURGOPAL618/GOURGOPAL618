@@ -305,38 +305,47 @@
 
 <br/>
 
-```python
-# ══════════════════════════════════════════════════════════════════════
-#   GOURAGOPAL MOHAPATRA  ::  PERSONAL MANIFEST  ::  CLASSIFIED
-# ══════════════════════════════════════════════════════════════════════
+<div align="center">
 
-operator = {
+> *"Every pixel in a satellite image is a data point waiting to speak."*
 
-    "mission_creed"   :  "Every pixel in a satellite image is a data point waiting to speak.",
+**OPERATOR:** GOURGOPAL MOHAPATRA &nbsp;·&nbsp; **COMMAND CENTER:** JAGANNATH COMMAND CENTER (JCC) &nbsp;·&nbsp; **PHILOSOPHY:** UNCONSTRAINED BY TERRESTRIAL BOUNDARIES 🌌
 
-    "loves"           :  [
-                            "🚀  Space — first, last, and always",
-                            "💪  Myself — the primary fuel of every mission",
-                            "🧠  Deep Learning — the language of intelligence",
-                         ],
+</div>
 
-    "obsession"       :  "Human bodies in space — where biology meets the cosmos",
+| SIGNAL | READING |
+|:---|:---|
+| 🚀 **Drives** | Space — first, last, and always |
+| 💪 **Fuel** | Self-belief — the primary fuel of every mission |
+| 🧠 **Language** | Deep Learning — the language of intelligence |
+| 🧬 **Obsession** | Human bodies in space — where biology meets the cosmos |
+| 🛰️ **Belief** | If it cannot be seen from orbit, it has not been mapped yet |
+| 📡 **Spirit Code** | Builds systems that think in dimensions humans cannot see |
+| 🌾 **Next Chapter** | THE MRIDANSH — feeding a nation through orbital intelligence |
+| 🟢 **Status** | ALL SYSTEMS NOMINAL — MISSION CONTINUES |
 
-    "home_lab"        :  "ASTROVITAL AI Setup — custom AI/electronics orbital station",
+---
 
-    "belief"          :  "If it cannot be seen from orbit, it has not been mapped yet.",
+## 🧬 ASTROVITAL AI — SPACE MEDICINE ROADMAP
 
-    "philosophy"      :  "Unconstrained by Terrestrial Boundaries 🌌",
+<div align="center">
 
-    "spirit_code"     :  "I build systems that think in dimensions humans cannot see.",
+<img height="30" src="https://img.shields.io/badge/ECOSYSTEM-ASTROVITAL%20AI-b026ff?style=for-the-badge&labelColor=000000"/>
+<img height="30" src="https://img.shields.io/badge/DOMAIN-SPACE%20MEDICINE%20AI-00e5ff?style=for-the-badge&labelColor=000000"/>
+<img height="30" src="https://img.shields.io/badge/V1-RELEASED-00ffab?style=for-the-badge&labelColor=000000"/>
+<img height="30" src="https://img.shields.io/badge/2027%20ROADMAP-2%20VERSIONS%20PLANNED-ffb700?style=for-the-badge&labelColor=000000"/>
 
-    "next_chapter"    :  "THE MRIDANSH — feeding a nation through orbital intelligence",
+</div>
 
-    "status"          :  "🟢  ALL SYSTEMS NOMINAL — MISSION CONTINUES",
-}
+| VERSION | STATUS | TARGET |
+|:---:|:---:|:---|
+| **VITALX CORE V1** | ✅ RELEASED | Foundation build — shipped |
+| **AEREXIS OMEGA V1.5** | 🔶 PLANNED | 2027 |
+| **OMNISENTINEL V1.5** | 🔶 PLANNED | 2027 |
 
-print(">> Operator manifest loaded. Launch sequence standing by.")
-```
+> ASTROVITAL AI is the long-term Space Medicine AI arm of the operator's work — exploring how human physiology holds up beyond Earth, where biology meets the cosmos. V1 is live; the next two versions are slated for 2027.
+
+<div align="center">
 
 <br/>
 
