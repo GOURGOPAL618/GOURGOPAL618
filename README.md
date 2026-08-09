@@ -347,7 +347,13 @@
 
 </div>
 
+<br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
 
 ## 📬 GROUND CONTROL — ESTABLISH UPLINK
 
