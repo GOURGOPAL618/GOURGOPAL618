@@ -388,13 +388,6 @@
 
 <br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F2E,100:1A1F6E&height=120&text=%22Every%20orbit%20is%20a%20data%20point.%20Every%20pixel%2C%20a%20mission.%22&fontSize=16&fontColor=F5C842&fontAlignY=40&desc=The%20Earth%20speaks%20in%20frequencies%20%E2%80%94%20I%20am%20the%20decoder.%20%E2%80%94%20GOURAGOPAL%20MOHAPATRA&descSize=13&descAlignY=68&descColor=CBD5F5" width="80%"/>
 
