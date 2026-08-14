@@ -339,7 +339,7 @@
 
 <img height="34" src="https://img.shields.io/badge/VITALX%20CORE%20V1-✅%20RELEASED-00ffab?style=for-the-badge&labelColor=000000"/>
 <img height="34" src="https://img.shields.io/badge/AEREXIS%20OMEGA%20V1.5-🔶%20PLANNED%20%C2%B7%202027-ffb700?style=for-the-badge&labelColor=000000"/>
-<img height="34" src="https://img.shields.io/badge/OMNISENTINEL%20V1.5-🔶%20PLANNED%20%C2%B7%202027-ffb700?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/OMNISENTINEL%20V2-🔶%20PLANNED%20%C2%B7%202027-ffb700?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
