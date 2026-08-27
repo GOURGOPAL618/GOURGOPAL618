@@ -271,25 +271,6 @@
 
 <div align="center">
 
-## 📊 MISSION TELEMETRY — GITHUB STATS
-
-<br/>
-<img src="https://github-readme-stats-two-lovat-64.vercel.app/api?username=GOURGOPAL618&show_icons=true&theme=default&bg_color=FAFBFF&title_color=0B0F2E&icon_color=F5C842&text_color=1A1F6E&border_color=2D3494&border_radius=14&include_all_commits=true&count_private=true&ring_color=F5C842" height="185"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GOURGOPAL618&theme=default&background=FAFBFF&ring=F5C842&fire=F5C842&currStreakLabel=0B0F2E&sideLabels=0B0F2E&border=2D3494&border_radius=14&dates=1A1F6E&stroke=2D3494" height="185"/>
-<br/><br/>
-<img src="https://github-readme-stats-two-lovat-64.vercel.app/api/top-langs/?username=GOURGOPAL618&layout=compact&theme=default&bg_color=FAFBFF&title_color=0B0F2E&text_color=1A1F6E&border_color=2D3494&border_radius=14&langs_count=8" height="165"/>
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOURGOPAL618&bg_color=FAFBFF&color=1A1F6E&line=2D3494&point=F5C842&area=true&area_color=CBD5F5&hide_border=false&border_color=2D3494&radius=8" width="95%"/>
-</div>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-<br/>
-<div align="center">
-<div align="center">
-
 ## 🌌 OPERATOR LOGS — PERSONAL CORE DUMP
 
 > *"Every pixel in a satellite image is a data point waiting to speak."*
