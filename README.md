@@ -325,6 +325,7 @@
 
 <br/>
 
+<div align="center">
 ## 📬 GROUND CONTROL — ESTABLISH UPLINK
 
 <div align="center">
