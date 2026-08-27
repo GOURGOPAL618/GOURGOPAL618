@@ -327,6 +327,8 @@
 
 ## 📬 GROUND CONTROL — ESTABLISH UPLINK
 
+<div align="center">
+  
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Gouragopal%20Mohapatra-CBD5F5?style=for-the-badge&logo=linkedin&logoColor=CBD5F5&labelColor=0B0F2E)](https://www.linkedin.com/in/gouragopal-mohapatra-a9b227324/)&nbsp;
@@ -366,10 +368,12 @@
 
 <br/>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F2E,100:1A1F6E&height=120&text=%22Every%20orbit%20is%20a%20data%20point.%20Every%20pixel%2C%20a%20mission.%22&fontSize=16&fontColor=F5C842&fontAlignY=40&desc=The%20Earth%20speaks%20in%20frequencies%20%E2%80%94%20I%20am%20the%20decoder.%20%E2%80%94%20GOURAGOPAL%20MOHAPATRA&descSize=13&descAlignY=68&descColor=CBD5F5" width="80%"/>
 
 <br/>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3494,50:1A1F6E,100:0B0F2E&height=130&section=footer&text=Mission%20Continues...&fontSize=18&fontColor=F5C842&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
