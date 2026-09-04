@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B0F2E,100:00e5ff&height=220&section=header&text=GOURAGOPAL%20MOHAPATRA&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Chief%20Systems%20Architect%20%E2%80%A2%20Avionics%20%26%20Space%20Medicine%20%E2%80%A2%20RS-SDA&descSize=15&descAlignY=64&descColor=00e5ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B0F2E,100:00e5ff&height=220&section=header&text=GOURAGOPAL%20MOHAPATRA&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Chief%20Systems%20Architect%20%7C%20Avionics%20%26%20Space%20Medicine%20%7C%20RS-SDA&descSize=15&descAlignY=64&descColor=00e5ff&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=1000&color=00e5ff&center=true&vCenter=true&width=750&height=40&lines=◈+JAGANNATH+COMMAND+CENTER+(JCC)+—+ALL+SYSTEMS+NOMINAL+◈;◈+ARCHITECTING+PHYSICS-INFORMED+AEROSPACE+AI+◈;◈+DO-178C+%2F+DO-278+COMPLIANT+ORBITAL+PIPELINES+◈;◈+UNCONSTRAINED+BY+TERRESTRIAL+BOUNDARIES+◈)](https://git.io/typing-svg)
 
