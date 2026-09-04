@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B0F2E,100:00e5ff&height=220&section=header&text=GOURAGOPAL%20MOHAPATRA&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Chief%20Systems%20Architect%20%7C%20Avionics%20%26%20Space%20Medicine%20%7C%20RS-SDA&descSize=15&descAlignY=64&descColor=00e5ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2E,50:1A1F6E,100:2D3494&height=220&section=header&text=GOURGOPAL%20MOHAPATRA&fontSize=36&fontColor=F5C842&fontAlignY=42&desc=Space-AI%20%E2%80%A2%20Remote%20Sensing%20%E2%80%A2%20Space%20Medicine%20AI&descSize=15&descAlignY=64&descColor=CBD5F5&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=1000&color=00e5ff&center=true&vCenter=true&width=750&height=40&lines=◈+JAGANNATH+COMMAND+CENTER+(JCC)+—+ALL+SYSTEMS+NOMINAL+◈;◈+ARCHITECTING+PHYSICS-INFORMED+AEROSPACE+AI+◈;◈+DO-178C+%2F+DO-278+COMPLIANT+ORBITAL+PIPELINES+◈;◈+UNCONSTRAINED+BY+TERRESTRIAL+BOUNDARIES+◈)](https://git.io/typing-svg)
-
-<br/>
-
-![Status](https://img.shields.io/badge/▶%20OPERATIONAL%20STATUS-SYSTEMS%20ARCHITECT-00e5ff?style=for-the-badge&labelColor=000000&color=00e5ff)
-![Clearance](https://img.shields.io/badge/🛡️%20CLEARANCE-LEVEL%20Ω%20ORBITAL-b026ff?style=for-the-badge&labelColor=000000&color=b026ff)
-![Base](https://img.shields.io/badge/⚡%20BASE-JCC%20HQ%20%7C%20INDIA-ff2079?style=for-the-badge&labelColor=000000&color=ff2079)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=700&color=1A1F6E&center=true&vCenter=true&width=750&height=40&lines=◈+MISSION+CONTROL+ONLINE+—+ALL+SYSTEMS+NOMINAL+◈;◈+ORBITAL+INTELLIGENCE+UNIT+%3A%3A+GOURGOPAL618+◈;◈+DECODING+PLANETARY+INTELLIGENCE+THROUGH+DEEP+LEARNING+◈)](https://git.io/typing-svg)
 
 <br/>
 
-> **"A single unverified colon in flight software costs lives. I don't just write code; I build the invisible shield of logic that keeps spacecraft in orbit."**
+![Status](https://img.shields.io/badge/▶%20STATUS-MISSION%20ACTIVE-1A1F6E?style=for-the-badge&labelColor=0B0F2E&color=1A1F6E)
+![Season](https://img.shields.io/badge/⚡%20BASE-ODISHA,%20INDIA-F5C842?style=for-the-badge&labelColor=0B0F2E&color=F5C842)
+![Domain](https://img.shields.io/badge/🛰%20DOMAIN-EARTH%20OBSERVATION%20AI-2D3494?style=for-the-badge&labelColor=0B0F2E&color=2D3494)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=18&duration=4000&pause=1500&color=0B0F2E&center=true&vCenter=true&width=750&height=45&lines=%22Unconstrained+by+Terrestrial+Boundaries.+Computing+Beyond+the+Cosmos.%22)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,52 +30,60 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/GOURGOPAL618/GOURGOPAL618/main/profile.png" width="200" style="border-radius:5%; border: 2px solid #00e5ff; box-shadow: 0 0 10px #00e5ff;"/>
+<img src="https://raw.githubusercontent.com/GOURGOPAL618/GOURGOPAL618/main/profile.png" width="190" style="border-radius:50%; border: 4px solid #1A1F6E;"/>
 
 <br/><br/>
 
-**`[ CALLSIGN: GOURGOPAL618 ]`**
+**`GOURGOPAL618`**
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/GOURGOPAL618)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/gouragopal-mohapatra-a9b227324/)&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=00e5ff)](https://www.kaggle.com/gourgopalmohapatra)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0F2E?style=flat-square&logo=github&logoColor=F5C842)](https://github.com/GOURGOPAL618)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F2E?style=flat-square&logo=linkedin&logoColor=F5C842)](https://www.linkedin.com/in/gouragopal-mohapatra-a9b227324/)&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-0B0F2E?style=flat-square&logo=kaggle&logoColor=F5C842)](https://www.kaggle.com/gourgopalmohapatra)&nbsp;
+[![Roboflow](https://img.shields.io/badge/Roboflow-0B0F2E?style=flat-square&logo=roboflow&logoColor=F5C842)](https://app.roboflow.com/gouragopal-mohapatra)
 
 <br/>
 
-![Followers](https://img.shields.io/github/followers/GOURGOPAL618?style=flat-square&logo=github&labelColor=000000&color=000000&label=Crew&logoColor=00e5ff)
-![Commits](https://img.shields.io/badge/2026%20Commits-741+-00e5ff?style=flat-square&logo=github&labelColor=000000)
-![Views](https://komarev.com/ghpvc/?username=GOURGOPAL618&style=flat-square&color=000000&label=Visitors)
+![Followers](https://img.shields.io/github/followers/GOURGOPAL618?style=flat-square&logo=github&labelColor=0B0F2E&color=0B0F2E&label=Crew&logoColor=F5C842)
+![Stars](https://img.shields.io/github/stars/GOURGOPAL618?style=flat-square&logo=github&labelColor=0B0F2E&color=0B0F2E&label=Stars&logoColor=F5C842)
+![Views](https://komarev.com/ghpvc/?username=GOURGOPAL618&style=flat-square&color=0B0F2E&label=Visitors)
 
 </td>
 <td width="67%" valign="top">
 
 <br/>
 
-### ` 📋 SYSTEMS ARCHITECT DOSSIER — CLASSIFIED `
+### ` 📋 OPERATOR DOSSIER — CLASSIFIED `
 
 ```yaml
-╔═════════════════════════════════════════════════════════════╗
-  TARGET IDENTITY :  GOURAGOPAL MOHAPATRA
-  DESIGNATION     :  Chief Systems Architect | RS-SDA Division
-  COORDINATES     :  Odisha, India [20.94°N, 84.80°E]
-  ─────────────────────────────────────────────────────────────
-  PRIMARY DOMAINS:
-    ∷ Airborne & Ground Software Safety (DO-178C / DO-278)
-    ∷ Earth Observation & Hyperspectral Intelligence
-    ∷ Space Medicine AI & Deep Space Physiology
-    ∷ Physics-Informed Generative AI
-  ─────────────────────────────────────────────────────────────
-  THE ORCHESTRATOR'S DIRECTIVE:
-    01. Standard computer science sees text and tables. 
-        I see the Earth in multi-spectral & active radar layers.
-    02. Generative AI is useless in disasters without 
-        Uncertainty Quantification (Trust Scores).
-    03. The physical limits of the satellite dictate the 
-        parameters of the data pipeline. Architect the whole.
-  ╚═════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+  CALLSIGN     :  GOURAGOPAL MOHAPATRA
+  ALIAS        :  GOURGOPAL618
+  DESIGNATION  :  Space-AI & Remote Sensing Engineer
+  CLEARANCE    :  LEVEL Ω — ORBITAL INTELLIGENCE
+  COORDINATES  :  Odisha, India [20.94°N, 84.80°E]
+  ──────────────────────────────────────────────────
+  ACTIVE DOMAINS:
+    ∷ Earth Observation & Deep Learning
+    ∷ SAR + Multispectral Satellite Analysis
+    ∷ Space Medicine AI & Human Physiology
+    ∷ Agro-Spatial Intelligence Systems
+  ──────────────────────────────────────────────────
+  MISSION STACK:
+    ◈ RS-SDA-02     →  Crop Health & Anomaly Engine
+    ◈ THE MRIDANSH  →  State-Scale Agro Platform
+    ◈ ASTROVITAL AI →  Space Medicine Intelligence
+  ──────────────────────────────────────────────────
+  LAUNCH WINDOW:  Coming Soon....🔜
+  STATUS       :  ✅ ALL SYSTEMS NOMINAL
+╚══════════════════════════════════════════════════╝
 ```
+
+> *I bridge deep learning frameworks with satellite physics.*
+> *Conventional CS sees text & tables — I see the Earth in*
+> **multi-spectral · multi-temporal · active radar (SAR)** *layers.*
+
 </td>
 </tr>
 </table>
@@ -90,54 +98,42 @@
 
 <div align="center">
 
-## ⚙️ MISSION CONTROL — THE ORCHESTRATION STACK
+## 🛡️ MISSION SYSTEMS — TECH ARSENAL
 
 <br/>
 
-**— AEROSPACE COMPLIANCE & SAFETY STANDARDS —**
+**— SATELLITE INTELLIGENCE LAYER —**
 
-![DO-178C](https://img.shields.io/badge/DO--178C-Airborne%20Software%20Safety-b026ff?style=for-the-badge&labelColor=000000)
-![DO-278](https://img.shields.io/badge/DO--278-Ground%20Systems-b026ff?style=for-the-badge&labelColor=000000)
-![ARP4754A](https://img.shields.io/badge/ARP4754A-Systems%20Architecture-b026ff?style=for-the-badge&labelColor=000000)
-![DO-160](https://img.shields.io/badge/DO--160-Environmental%20Hardware-b026ff?style=for-the-badge&labelColor=000000)
-![Traceability](https://img.shields.io/badge/MC%2FDC-Level%20B%20Traceability-b026ff?style=for-the-badge&labelColor=000000)
-
-<br/>
-
-**— ORBITAL INTELLIGENCE & SENSOR DATA —**
-
-![Sentinel-1](https://img.shields.io/badge/Sentinel--1-SAR%20Interferometry-00e5ff?style=for-the-badge&labelColor=000000)
-![Sentinel-2](https://img.shields.io/badge/Sentinel--2-Multispectral%20Optical-00e5ff?style=for-the-badge&labelColor=000000)
-![SRTM](https://img.shields.io/badge/SRTM-Elevation%20Models-00e5ff?style=for-the-badge&labelColor=000000)
-![Landsat](https://img.shields.io/badge/Landsat-Thermal%20%26%20Optical-00e5ff?style=for-the-badge&labelColor=000000)
+![Sentinel-1](https://img.shields.io/badge/Sentinel--1-C--Band%20SAR-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
+![Sentinel-2](https://img.shields.io/badge/Sentinel--2-MSI%20Optical-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
+![SRTM](https://img.shields.io/badge/SRTM-Elevation%20Model-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
+![Landsat](https://img.shields.io/badge/Landsat-Multispectral-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
 
 <br/>
 
-**— PLANETARY COMPUTE & GEOSPATIAL PIPELINES —**
+**— GEOSPATIAL COMPUTE LAYER —**
 
-![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-Planetary%20Compute-F5C842?style=for-the-badge&logo=google&labelColor=000000&logoColor=F5C842)
-![QGIS](https://img.shields.io/badge/QGIS-Geospatial%20Core-F5C842?style=for-the-badge&logo=qgis&labelColor=000000&logoColor=F5C842)
-![Rasterio](https://img.shields.io/badge/Rasterio-Data%20Extraction-F5C842?style=for-the-badge&labelColor=000000)
-![GDAL](https://img.shields.io/badge/GDAL-Toolchain-F5C842?style=for-the-badge&labelColor=000000)
-
-<br/>
-
-**— PHYSICS-INFORMED AI & DEEP LEARNING CORE —**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced%20Vision-ff2079?style=for-the-badge&logo=pytorch&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-Primary%20Language-ff2079?style=for-the-badge&logo=python&labelColor=000000)
-![Physics-Informed](https://img.shields.io/badge/Physics--Informed-Generative%20AI-ff2079?style=for-the-badge&labelColor=000000)
-![TrustScore](https://img.shields.io/badge/Uncertainty-Quantification%20Maps-ff2079?style=for-the-badge&labelColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-Array%20Engine-ff2079?style=for-the-badge&logo=numpy&labelColor=000000)
-![Scikit](https://img.shields.io/badge/Scikit--Learn-ML%20Core-ff2079?style=for-the-badge&logo=scikitlearn&labelColor=000000)
+![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-GEE%20API-F5C842?style=for-the-badge&logo=google&labelColor=0B0F2E&logoColor=F5C842)
+![QGIS](https://img.shields.io/badge/QGIS-Core%20Engine-F5C842?style=for-the-badge&labelColor=0B0F2E)
+![Rasterio](https://img.shields.io/badge/Rasterio-Pipeline-F5C842?style=for-the-badge&labelColor=0B0F2E)
+![GDAL](https://img.shields.io/badge/GDAL-Toolchain-F5C842?style=for-the-badge&labelColor=0B0F2E)
 
 <br/>
 
-**— FLIGHT DYNAMICS & HARDWARE OPTIMIZATION —**
+**— DEEP LEARNING CORE —**
 
-![OpenMCT](https://img.shields.io/badge/OpenMCT-Telemetry%20Dashboard-00ffab?style=for-the-badge&labelColor=000000)
-![Memmap](https://img.shields.io/badge/np.memmap-Memory%20Mapping-00ffab?style=for-the-badge&labelColor=000000)
-![GPU](https://img.shields.io/badge/Dual%20T4%20GPU-Compute%20Cluster-00ffab?style=for-the-badge&logo=nvidia&labelColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced%20Segmentation-2D3494?style=for-the-badge&logo=pytorch&labelColor=0B0F2E&logoColor=CBD5F5)
+![Python](https://img.shields.io/badge/Python-Primary%20Language-2D3494?style=for-the-badge&logo=python&labelColor=0B0F2E&logoColor=CBD5F5)
+![NumPy](https://img.shields.io/badge/NumPy-Array%20Engine-2D3494?style=for-the-badge&logo=numpy&labelColor=0B0F2E&logoColor=CBD5F5)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-ML%20Core-2D3494?style=for-the-badge&logo=scikitlearn&labelColor=0B0F2E&logoColor=CBD5F5)
+
+<br/>
+
+**— HARDWARE OPTIMIZATION —**
+
+![memmap](https://img.shields.io/badge/np.memmap-Memory%20Mapping-1A1F6E?style=for-the-badge&labelColor=0B0F2E&color=1A1F6E)
+![GPU](https://img.shields.io/badge/Dual%20T4%20GPU-Kaggle%20%7C%20Colab-1A1F6E?style=for-the-badge&logo=nvidia&labelColor=0B0F2E&logoColor=CBD5F5&color=1A1F6E)
+![RAM](https://img.shields.io/badge/16GB%20RAM-Constrained%20Optimized-1A1F6E?style=for-the-badge&labelColor=0B0F2E&color=1A1F6E)
 
 </div>
 
@@ -151,9 +147,9 @@
 
 <div align="center">
 
-## 🚀 HIGH-IMPACT AEROSPACE ARCHITECTURES
+## 🚀 HIGH-IMPACT MISSION PORTFOLIO
 
-*Each repository represents a deployed, safety-critical aerospace intelligence subsystem.*
+*Each project is not a repo — it is a deployed intelligence system.*
 
 </div>
 
@@ -163,16 +159,17 @@
 <tr>
 <td>
 
-### 🌾 &nbsp;`THE MRIDANSH` &nbsp;·&nbsp; `RS-SDA STATE-SCALE PLATFORM`
+### &nbsp;&nbsp;🗺️ &nbsp;`MISSION — 01` &nbsp;·&nbsp; LULC CLASSIFICATION, ODISHA
 
-> **Physics-Guided Digital Twin Engine for Agricultural Resilience**
+> **Cloud-Native Land Use Land Cover Intelligence**
 
 ```
-  MISSION    ▸  Live anomaly detection & soil-state estimation across Odisha
-  TECHNIQUE  ▸  Stacked LSTM on NDVI dynamic variation + EnKF Core Integration
-  TELEMETRY  ▸  FastAPI Async Backend modeled for Ground Control (DO-278)
-  STATUS     ▸  🟢 PHASE 2 INTEGRATION ACTIVE
+  OBJECTIVE  ▸  High-accuracy feature boundary mapping over Odishan topography
+  TECHNIQUE  ▸  Manual pixel ground-truthing for geometric stability
+  CORE ASSET ▸  200+ high-precision geographic training polygons @ 50–100m resolution
+  OUTCOME    ▸  Bypassed traditional algorithmic failures via spatial engineering
 ```
+
 </td>
 </tr>
 </table>
@@ -183,16 +180,17 @@
 <tr>
 <td>
 
-### ⚕️ &nbsp;`ASTROVITAL AI` &nbsp;·&nbsp; `VITALX CORE V1 -> AEREXIS OMEGA V1.5`
+### &nbsp;&nbsp;🌾 &nbsp;`MISSION — 02` &nbsp;·&nbsp; CROP HEALTH & ANOMALY DETECTION `RS-SDA-02`
 
-> **Deep Space Clinical Decision Support System (CDSS)**
+> **Stacked LSTM · Sentinel-2 NDVI Time-Series · Agro-Intelligence**
 
 ```
-  MISSION    ▸  AI monitoring of human physiology in deep space environments
-  SAFETY     ▸  Architecting traceability aligned with DO-178C Level B compliance
-  COUPLING   ▸  Human-Machine (ICDSS-H & ICDSS-M) Assurance Layers
-  STATUS     ▸  🔵 V1 LIVE / V1.5 IN DO-178C RESEARCH PHASE
+  OBJECTIVE  ▸  End-to-end multi-spectral time-series anomaly detection engine
+  TECHNIQUE  ▸  Stacked LSTM on NDVI dynamic variation sequences
+  CORE ASSET ▸  Computational baseline powering THE MRIDANSH state-scale platform
+  OUTCOME    ▸  Live anomaly detection across Odisha's agricultural zones
 ```
+
 </td>
 </tr>
 </table>
@@ -203,16 +201,17 @@
 <tr>
 <td>
 
-### 👁️ &nbsp;`DRISHTI-IV` &nbsp;·&nbsp; `THE FOG OF WAR PROTOCOL`
+### &nbsp;&nbsp;🌪️ &nbsp;`MISSION — 03` &nbsp;·&nbsp; SAR DISASTER RESPONSE — CYCLONE FANI
 
-> **Physics-Informed Generative AI with Uncertainty Quantification**
+> **PyTorch U-Net · Balasore-to-Puri Coastal Corridor**
 
 ```
-  MISSION    ▸  Reconstructing LISS-IV optical data obscured by heavy cloud cover
-  TECHNIQUE  ▸  Edge-Preserving Texture Discrimination + Dynamic Temporal Windowing
-  SAFETY     ▸  Generates a 'Trust Score' map to prevent AI hallucination in disasters
-  STATUS     ▸  🟡 ARCHITECTURE MAPPED / KINETIC DEVELOPMENT PENDING
+  OBJECTIVE  ▸  Flood inundation mapping of historic Cyclone Fani devastation
+  TECHNIQUE  ▸  Stacked SAR channels — Pre-VV + Co-VV + Log-Ratio
+  CORE ASSET ▸  1,029.43 km² absolute inundation volume identified
+  OUTCOME    ▸  Dice Score 85.8%–86.5% · Outpaced Otsu baseline
 ```
+
 </td>
 </tr>
 </table>
@@ -223,16 +222,18 @@
 <tr>
 <td>
 
-### 🌪️ &nbsp;`ANVESANA : MARGAVEDHA` &nbsp;·&nbsp; `SAR INTERFEROMETRY`
+### &nbsp;&nbsp;⚕️ &nbsp;`MISSION — 04` &nbsp;·&nbsp; ASTROVITAL AI — VITALX CORE V1
 
-> **Active Radar Penetration for Disaster Response (Cyclone Fani)**
+> **Human Physiology in Space · AI-Powered Space Medicine Engine**
 
 ```
-  MISSION    ▸  Flood inundation mapping using C-Band Synthetic Aperture Radar
-  TECHNIQUE  ▸  Stacked SAR channels (Pre-VV + Co-VV + Log-Ratio) via PyTorch U-Net
-  IMPACT     ▸  1,029.43 km² absolute inundation volume identified. Dice Score: 86.5%
-  STATUS     ▸  🟢 COMPLETED / DEPLOYED
+  OBJECTIVE  ▸  AI monitoring of human bodies in deep space environments
+  VERSIONS   ▸  VITALX CORE V1  →  AEREXIS OMEGA V1.5  →  OMNISENTINEL V2
+  DOMAIN     ▸  Space Medicine · Biomedical Signal Processing · Orbital Health
 ```
+
+&nbsp;&nbsp;&nbsp;&nbsp;[![ASTROVITAL AI](https://img.shields.io/badge/🔗%20VIEW%20REPO-ASTROVITAL__AI__VITALX__CORE__V1-F5C842?style=for-the-badge&labelColor=0B0F2E)](https://github.com/GOURGOPAL618/ASTROVITAL_AI_VITALX_CORE_V1)
+
 </td>
 </tr>
 </table>
@@ -247,16 +248,134 @@
 
 <div align="center">
 
-## 🌌 THE COMMAND CENTER LOGS
+## 📅 2026 MISSION LAUNCH GRID
 
-> *"Every orbit is a data point. Every pixel, a mission."*
+<br/>
 
-<img height="34" src="https://img.shields.io/badge/🚀%20DRIVES-SPACE%20%E2%80%94%20FIRST%2C%20LAST%2C%20ALWAYS-00e5ff?style=for-the-badge&labelColor=000000"/>
-<img height="34" src="https://img.shields.io/badge/💪%20FUEL-RADICAL%20PATIENCE-b026ff?style=for-the-badge&labelColor=000000"/>
-<img height="34" src="https://img.shields.io/badge/🧠%20LANGUAGE-DEEP%20LEARNING%20%26%20AVIONICS-ff2079?style=for-the-badge&labelColor=000000"/>
+| Symbol | DATE | COSMIC EVENT | MISSION | STATUS |
+|:------:|:-----|:-------------|:--------|:------:|
+| 🔱 | **July 16, 2026** | Ratha Yatra | Official Launch — **THE MRIDANSH**<br/><sub>Open Agro-Spatial Intelligence Platform</sub> | 🟢 Launched |
+| 🌾 | **2026** | Coming... | Remote Sensing Space-AI<br/><sub>Launch & Publication Draft Release</sub> | 🟡 T‑MINUS |
+| ⚕️ | **2027 · Q3** | — | **AEREXIS OMEGA V1.5** RESEARCH<br/><sub>Next-Gen Space Medicine AI</sub> | 🔵 IN RESEARCH |
+| 🛰️ | **2028 · Q4** | — | **OMNISENTINEL V2** PAUSED<br/><sub>Multi-Domain Orbital Intelligence</sub> | 🔴 PAUSED |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🌌 OPERATOR LOGS — PERSONAL CORE DUMP
+
+> *"Every pixel in a satellite image is a data point waiting to speak."*
+
+<img height="34" src="https://img.shields.io/badge/OPERATOR-GOURGOPAL%20MOHAPATRA-00e5ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/COMMAND%20CENTER-JAGANNATH%20COMMAND%20CENTER%20(JCC)-b026ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/PHILOSOPHY-UNCONSTRAINED%20BY%20TERRESTRIAL%20BOUNDARIES-ff2079?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3494,50:1A1F6E,100:0B0F2E&height=130&section=footer&text=The%20Earth%20speaks%20in%20frequencies%20—%20I%20am%20the%20decoder.&fontSize=18&fontColor=00e5ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img height="34" src="https://img.shields.io/badge/🚀%20DRIVES-SPACE%20%E2%80%94%20FIRST%2C%20LAST%2C%20ALWAYS-00e5ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/💪%20FUEL-SELF--BELIEF-b026ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/🧠%20LANGUAGE-DEEP%20LEARNING-ff2079?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+<img height="34" src="https://img.shields.io/badge/🧬%20OBSESSION-HUMAN%20BODIES%20IN%20SPACE-00ffab?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/🛰️%20BELIEF-UNMAPPED%20UNTIL%20SEEN%20FROM%20ORBIT-ffb700?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/📡%20SPIRIT%20CODE-THINKS%20IN%20DIMENSIONS%20UNSEEN-00e5ff?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+<img height="34" src="https://img.shields.io/badge/🌾%20NEXT%20CHAPTER-THE%20MRIDANSH-b026ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/🟢%20STATUS-ALL%20SYSTEMS%20NOMINAL-00ffab?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+---
+
+## 🧬 ASTROVITAL AI — SPACE MEDICINE ROADMAP
+
+<img height="34" src="https://img.shields.io/badge/ECOSYSTEM-ASTROVITAL%20AI-b026ff?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/DOMAIN-SPACE%20MEDICINE%20AI-00e5ff?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+<img height="34" src="https://img.shields.io/badge/VITALX%20CORE%20V1-✅%20RELEASED-00ffab?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/AEREXIS%20OMEGA%20V1.5-🔶%20PLANNED%20%C2%B7%202027-ffb700?style=for-the-badge&labelColor=000000"/>
+<img height="34" src="https://img.shields.io/badge/OMNISENTINEL%20V2-🔶%20PLANNED%20%C2%B7%202027-ffb700?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+*ASTROVITAL AI is the long-term Space Medicine AI arm of the operator's work — exploring how human physiology holds up beyond Earth, where biology meets the cosmos. VITALX CORE V1 is live; the next two versions are slated for 2027 & 2028.*
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  
+## 📬 GROUND CONTROL — ESTABLISH UPLINK
+
+<div align="center">
+  
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Gouragopal%20Mohapatra-CBD5F5?style=for-the-badge&logo=linkedin&logoColor=CBD5F5&labelColor=0B0F2E)](https://www.linkedin.com/in/gouragopal-mohapatra-a9b227324/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-GOURGOPAL618-CBD5F5?style=for-the-badge&logo=github&logoColor=CBD5F5&labelColor=0B0F2E)](https://github.com/GOURGOPAL618)&nbsp;
+[![Kaggle](https://img.shields.io/badge/KAGGLE-gourgopalmohapatra-CBD5F5?style=for-the-badge&logo=kaggle&logoColor=CBD5F5&labelColor=0B0F2E)](https://www.kaggle.com/gourgopalmohapatra)
+
+<br/>
+
+[![Roboflow](https://img.shields.io/badge/ROBOFLOW-Datasets-F5C842?style=for-the-badge&logoColor=F5C842&labelColor=0B0F2E)](https://app.roboflow.com/gouragopal-mohapatra)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-ggmohapatra.info.2007-F5C842?style=for-the-badge&logo=gmail&logoColor=F5C842&labelColor=0B0F2E)](mailto:ggmohapatra.info.2007@gmail.com)&nbsp;
+[![Phone](https://img.shields.io/badge/WHATSAPP-+91%207978568753-F5C842?style=for-the-badge&logo=whatsapp&logoColor=F5C842&labelColor=0B0F2E)](tel:+917978568753)
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-Expert-F5C842?style=for-the-badge&logo=python&logoColor=0B0F2E&labelColor=0B0F2E)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-F5C842?style=for-the-badge&logo=pytorch&logoColor=0B0F2E&labelColor=0B0F2E)
+![GEE](https://img.shields.io/badge/Earth%20Engine-Active-F5C842?style=for-the-badge&logo=google&logoColor=0B0F2E&labelColor=0B0F2E)
+
+<br/>
+
+![SAR](https://img.shields.io/badge/SAR%20%7C%20MSI-Sentinel%201%20%26%202-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
+![LSTM](https://img.shields.io/badge/Stacked%20LSTM-Time%20Series-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
+![UNet](https://img.shields.io/badge/U--Net-Segmentation-CBD5F5?style=for-the-badge&labelColor=0B0F2E)
+
+<br/>
+
+![QGIS](https://img.shields.io/badge/QGIS-Geospatial%20Core-2D3494?style=for-the-badge&labelColor=0B0F2E)
+![SpaceMed](https://img.shields.io/badge/ASTROVITAL-Space%20Medicine%20AI-2D3494?style=for-the-badge&labelColor=0B0F2E)
+
+<br/><br/>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F2E,100:1A1F6E&height=120&text=%22Every%20orbit%20is%20a%20data%20point.%20Every%20pixel%2C%20a%20mission.%22&fontSize=16&fontColor=F5C842&fontAlignY=40&desc=The%20Earth%20speaks%20in%20frequencies%20%E2%80%94%20I%20am%20the%20decoder.%20%E2%80%94%20GOURAGOPAL%20MOHAPATRA&descSize=13&descAlignY=68&descColor=CBD5F5" width="80%"/>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3494,50:1A1F6E,100:0B0F2E&height=130&section=footer&text=Mission%20Continues...&fontSize=18&fontColor=F5C842&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
