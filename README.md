@@ -313,7 +313,7 @@
 
 <br/><br/>
 
-*ASTROVITAL AI is the long-term Space Medicine AI arm of the operator's work — exploring how human physiology holds up beyond Earth, where biology meets the cosmos. VITALX CORE V1 is live; the next two versions are slated for 2027.*
+*ASTROVITAL AI is the long-term Space Medicine AI arm of the operator's work — exploring how human physiology holds up beyond Earth, where biology meets the cosmos. VITALX CORE V1 is live; the next two versions are slated for 2027 & 2028.*
 
 </div>
 
